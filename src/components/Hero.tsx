@@ -96,7 +96,7 @@ export function Hero() {
               className="flex items-center gap-2 text-gray-300 hover:text-blue-400 transition-colors"
             >
               <Mail className="w-5 h-5" />
-              <span>Singhiqbal491@gmail.com</span>
+              <span>Singhiqbal4901@gmail.com</span>
             </a>
             <a
               href="tel:+15147129837"
