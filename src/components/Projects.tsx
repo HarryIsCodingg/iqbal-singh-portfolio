@@ -13,7 +13,7 @@ const projects = [
       "Pulled images from Docker Hub and deployed them to ECS using task definitions and services.",
       "Verified application reachability and basic scaling behavior in the ECS cluster."
     ],
-    image: "/src/assets/aws.svg"
+    image: "/assets/aws.svg"
   },
   {
     title: "MySQL Database Architecture",
@@ -26,7 +26,7 @@ const projects = [
       "Wrote queries with INNER, LEFT, and RIGHT JOINs to retrieve combined data.",
       "Tested queries to ensure correctness, performance, and data consistency across related tables."
     ],
-    image: "/src/assets/db.jpg"
+    image: "/assets/db.jpg"
   },
   {
     title: "Azure Virtual Network Security & Segmentation",
@@ -40,7 +40,7 @@ const projects = [
       "Deployed Windows VMs with NSG rules for each subnet and tested communication with WAN, LDAP, and tools.",
       "Demonstrated understanding of Azure networking, zero-trust access control, and secure cloud design."
     ],
-    image: "/src/assets/how-nsg-works.jpg"
+    image: "/assets/how-nsg-works.jpg"
   },
   {
     title: "GitHub Actions CI/CD",
@@ -53,7 +53,7 @@ const projects = [
       "Integrated steps for building, pushing, and exporting Docker images during automation.",
       "Ensured repeatable and consistent execution of the pipeline on each push or pull request."
     ],
-    image: "/src/assets/Github-Actions.webp"
+    image: "/assets/Github-Actions.webp"
   },
   {
     title: "Cisco Basic Network Configuration",
@@ -66,7 +66,7 @@ const projects = [
       "Set up switch ports and network configuration to enable communication across devices.",
       "Verified configuration using commands, and interface status checks."
     ],
-    image: "/src/assets/cisco.png"
+    image: "/assets/cisco.png"
   },
   {
     title: "Linux & OS Scripting",
@@ -79,7 +79,7 @@ const projects = [
       "Scheduled tasks using cron and other scheduling tools for automated and automatic jobs.",
       "Monitored system performance and resource usage with tools such as top, btop, and zenstat."
     ],
-    image: "/src/assets/linux.webp"
+    image: "/assets/linux.webp"
   },
   {
     title: "PC Build in PC Simulator",
@@ -91,7 +91,7 @@ const projects = [
       "Verified that the system booted correctly and all components were recognized.",
       "Observed use of CPU, RAM, and other hardware interact during system startup and basic operation."
     ],
-    image: "/src/assets/pc.webp"
+    image: "/assets/pc.webp"
   },
   {
     title: "Windows on macOS Enterprise Setup",
@@ -103,7 +103,7 @@ const projects = [
       "Configured drivers and compatibility settings to ensure stable and effective operation.",
       "Tested applications and basic workflows to confirm that Windows could be used reliably for work tasks."
     ],
-    image: "/src/assets/windows.png"
+    image: "/assets/windows.png"
   }
 ];
 
