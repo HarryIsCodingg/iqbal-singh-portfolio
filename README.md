@@ -1,7 +1,7 @@
 
-  # One Page Portfolio
+  # Iqbal Singh Portfolio
 
-  This is a code bundle for One Page Portfolio. The original project is available at https://www.figma.com/design/zRbMR2SOJIsu57Q49RRfle/One-Page-Portfolio.
+  This is a code bundle for Iqbal Singh Portfolio.
 
   ## Running the code
 
