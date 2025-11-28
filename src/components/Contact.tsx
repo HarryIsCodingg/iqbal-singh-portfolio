@@ -50,7 +50,7 @@ export function Contact() {
                       <Mail className="w-5 h-5" />
                       {!isMobile &&<span>Email </span>}
                   </div>
-                  <p>Singhiqbal491@gmail.com</p>
+                  <p>Singhiqbal4901@gmail.com</p>
               </motion.a>
 
               <motion.a
